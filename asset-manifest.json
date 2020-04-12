@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/pro_solus_deploy/static/css/main.24385274.chunk.css",
-    "main.js": "/pro_solus_deploy/static/js/main.867990d1.chunk.js",
-    "main.js.map": "/pro_solus_deploy/static/js/main.867990d1.chunk.js.map",
-    "runtime~main.js": "/pro_solus_deploy/static/js/runtime~main.1d16ef7b.js",
-    "runtime~main.js.map": "/pro_solus_deploy/static/js/runtime~main.1d16ef7b.js.map",
-    "static/css/2.cd0ce214.chunk.css": "/pro_solus_deploy/static/css/2.cd0ce214.chunk.css",
-    "static/js/2.ca1c430a.chunk.js": "/pro_solus_deploy/static/js/2.ca1c430a.chunk.js",
-    "static/js/2.ca1c430a.chunk.js.map": "/pro_solus_deploy/static/js/2.ca1c430a.chunk.js.map",
+    "main.css": "/pro_solus_deploy/static/css/main.0cae8fca.chunk.css",
+    "main.js": "/pro_solus_deploy/static/js/main.4be3b324.chunk.js",
+    "main.js.map": "/pro_solus_deploy/static/js/main.4be3b324.chunk.js.map",
+    "runtime-main.js": "/pro_solus_deploy/static/js/runtime-main.eab34509.js",
+    "runtime-main.js.map": "/pro_solus_deploy/static/js/runtime-main.eab34509.js.map",
+    "static/css/2.be39b884.chunk.css": "/pro_solus_deploy/static/css/2.be39b884.chunk.css",
+    "static/js/2.8e4a1fcb.chunk.js": "/pro_solus_deploy/static/js/2.8e4a1fcb.chunk.js",
+    "static/js/2.8e4a1fcb.chunk.js.map": "/pro_solus_deploy/static/js/2.8e4a1fcb.chunk.js.map",
     "index.html": "/pro_solus_deploy/index.html",
-    "precache-manifest.da3b234e8ea542ff331f0ffdcffea3f0.js": "/pro_solus_deploy/precache-manifest.da3b234e8ea542ff331f0ffdcffea3f0.js",
+    "precache-manifest.620d6a507d1476d87eb59894768e05d9.js": "/pro_solus_deploy/precache-manifest.620d6a507d1476d87eb59894768e05d9.js",
     "service-worker.js": "/pro_solus_deploy/service-worker.js",
-    "static/css/2.cd0ce214.chunk.css.map": "/pro_solus_deploy/static/css/2.cd0ce214.chunk.css.map",
-    "static/css/main.24385274.chunk.css.map": "/pro_solus_deploy/static/css/main.24385274.chunk.css.map"
-  }
+    "static/css/2.be39b884.chunk.css.map": "/pro_solus_deploy/static/css/2.be39b884.chunk.css.map",
+    "static/css/main.0cae8fca.chunk.css.map": "/pro_solus_deploy/static/css/main.0cae8fca.chunk.css.map",
+    "static/js/2.8e4a1fcb.chunk.js.LICENSE": "/pro_solus_deploy/static/js/2.8e4a1fcb.chunk.js.LICENSE",
+    "static/media/background.jpg": "/pro_solus_deploy/static/media/background.6a8d5e77.jpg",
+    "static/media/logo.png": "/pro_solus_deploy/static/media/logo.682d4a1c.png",
+    "static/media/logoName.png": "/pro_solus_deploy/static/media/logoName.fcdb10a1.png",
+    "static/media/logoName3.png": "/pro_solus_deploy/static/media/logoName3.77ffe945.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eab34509.js",
+    "static/css/2.be39b884.chunk.css",
+    "static/js/2.8e4a1fcb.chunk.js",
+    "static/css/main.0cae8fca.chunk.css",
+    "static/js/main.4be3b324.chunk.js"
+  ]
 }
